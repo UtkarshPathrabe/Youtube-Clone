@@ -31,7 +31,7 @@ const Feed = () => {
         <Videos videos={videos} />
       </Box>
     </Stack>
-  )
-}
+  );
+};
 
 export default Feed;
